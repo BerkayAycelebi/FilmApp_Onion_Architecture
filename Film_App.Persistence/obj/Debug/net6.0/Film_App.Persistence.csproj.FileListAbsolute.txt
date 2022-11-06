@@ -1,0 +1,17 @@
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Persistence.deps.json
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Persistence.dll
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Persistence.pdb
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Application.dll
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Domain.dll
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Application.pdb
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\bin\Debug\net6.0\Film_App.Domain.pdb
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.AssemblyInfo.cs
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.csproj.CopyComplete
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.dll
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\refint\Film_App.Persistence.dll
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\Film_App.Persistence.pdb
+C:\Users\SONY\source\repos\Film_App\Film_App.Persistence\obj\Debug\net6.0\ref\Film_App.Persistence.dll

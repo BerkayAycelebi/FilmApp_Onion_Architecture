@@ -1,0 +1,12 @@
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\bin\Debug\net6.0\Film_App.Domain.deps.json
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\bin\Debug\net6.0\Film_App.Domain.dll
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\bin\Debug\net6.0\Film_App.Domain.pdb
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.csproj.AssemblyReference.cache
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.AssemblyInfo.cs
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.dll
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\refint\Film_App.Domain.dll
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\Film_App.Domain.pdb
+C:\Users\SONY\source\repos\Film_App\Core\Film_App.Domain\obj\Debug\net6.0\ref\Film_App.Domain.dll

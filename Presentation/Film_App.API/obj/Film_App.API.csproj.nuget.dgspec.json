@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SONY\\source\\repos\\Film_App\\Presentation\\Film_App.API\\Film_App.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj",
+        "projectName": "Film_App.Application",
+        "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj",
+        "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Domain\\Film_App.Domain.csproj": {
+                "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Domain\\Film_App.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Domain\\Film_App.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Domain\\Film_App.Domain.csproj",
+        "projectName": "Film_App.Domain",
+        "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Domain\\Film_App.Domain.csproj",
+        "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SONY\\source\\repos\\Film_App\\Film_App.Persistence\\Film_App.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\Film_App\\Film_App.Persistence\\Film_App.Persistence.csproj",
+        "projectName": "Film_App.Persistence",
+        "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Film_App.Persistence\\Film_App.Persistence.csproj",
+        "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Film_App.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj": {
+                "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NETCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SONY\\source\\repos\\Film_App\\Presentation\\Film_App.API\\Film_App.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SONY\\source\\repos\\Film_App\\Presentation\\Film_App.API\\Film_App.API.csproj",
+        "projectName": "Film_App.API",
+        "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Presentation\\Film_App.API\\Film_App.API.csproj",
+        "packagesPath": "C:\\Users\\SONY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Presentation\\Film_App.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SONY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj": {
+                "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Core\\Film_App.Application\\Film_App.Application.csproj"
+              },
+              "C:\\Users\\SONY\\source\\repos\\Film_App\\Film_App.Persistence\\Film_App.Persistence.csproj": {
+                "projectPath": "C:\\Users\\SONY\\source\\repos\\Film_App\\Film_App.Persistence\\Film_App.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
